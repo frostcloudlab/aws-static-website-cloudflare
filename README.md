@@ -18,7 +18,7 @@ This site is hosted using the architecture described in this repository.
 
 ## Architecture
 
-[Architecture Diagram](images/network-architecture.png)
+![Architecture Diagram](images/network-architecture.png)
 
 Client  
 → Cloudflare (DNS, TLS)  
